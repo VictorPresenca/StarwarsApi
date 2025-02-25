@@ -1,0 +1,7 @@
+{
+  "name": "starwarsFilmes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
